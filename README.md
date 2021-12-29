@@ -6,6 +6,7 @@ Goals:
 * Find out if there is a relationship between marital status and repayment of the loan on time?
 * Find out if there is a relationship between the level of income and repayment of the loan on time?
 * Find out how the different objectives of the loan affect its repayment on time?
+
 Data description
 * children — the number of children in the family
 * days_employed — total work experience in days
